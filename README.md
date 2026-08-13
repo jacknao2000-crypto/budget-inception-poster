@@ -1,8 +1,16 @@
 # 低配版盗梦空间 / Budget Inception Poster
 
+[中文](README.md) · [English](README_EN.md)
+
 把普通人物照片变成一张不存在的旅游打卡照：人物和脚下的现实保持不变，头顶倒悬一个宏大的虚拟世界。
 
 > 坐在现实的边缘，打卡一个并不存在的世界。
+
+<p align="center">
+  <img src="examples/whale.webp" width="31%" alt="倒置鲸鱼海洋">
+  <img src="examples/space-station.webp" width="31%" alt="倒置轨道空间站">
+  <img src="examples/data-center.webp" width="31%" alt="倒置云端数据中心">
+</p>
 
 ## 项目起源
 
@@ -35,6 +43,14 @@
 
 Skill 会从几何地标、科技结构、自然巨物、文化空间和城市世界中选择反差最强的主题。
 
+## 更多测试
+
+<p align="center">
+  <img src="examples/pyramids.webp" width="31%" alt="倒置金字塔">
+  <img src="examples/louvre.webp" width="31%" alt="倒置卢浮宫">
+  <img src="examples/imperial-palace.webp" width="31%" alt="倒置中国宫殿">
+</p>
+
 ## 适合的照片
 
 - 竖版画面
@@ -49,16 +65,6 @@ Skill 会从几何地标、科技结构、自然巨物、文化空间和城市�
 普通人物 + 真实平台 + 中间空场 + 顶部倒置宏大世界
 = 一张刻意制造的虚假旅游打卡照
 ```
-
-## 已验证主题
-
-- 鲸鱼与倒置海洋
-- 巨型轨道空间站
-- 吉萨金字塔
-- 卢浮宫玻璃金字塔
-- 中国宫殿
-- 云端数据中心
-- 无限图书馆
 
 ## 安装
 
